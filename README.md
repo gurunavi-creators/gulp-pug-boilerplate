@@ -1,12 +1,12 @@
-# gnavi-gulp_v4-boiler-pug-babel
+# gulp-pug-boilerplate
 
 ## 開発環境
 
 ### Install
 
 ```
-$ git clone https://github.com/gurunavi-creators/gnavi-gulp_v4-boiler-pug-babel.git
-$ cd gnavi-gulp_v4-boiler-pug-babel
+$ git clone https://github.com/gurunavi-creators/gulp-pug-boilerplate.git
+$ cd gulp-pug-boilerplate
 $ yarn
 ```
 
@@ -18,7 +18,7 @@ v10.15.1
 
 ### Package
 
-- [package.json](https://github.com/gurunavi-creators/gnavi-gulp_v4-boiler-pug-babel/package.json)
+- [package.json](https://github.com/gurunavi-creators/gulp-pug-boilerplate/package.json)
 
 ### Development
 
